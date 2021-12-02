@@ -1,0 +1,298 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+}
+
+nav{
+    background-color: white;
+}
+
+header>img{
+    width: 100%;
+    height: 900px;
+}
+
+header>h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+#influ{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+a{
+    color: black;
+    text-decoration-style: none;
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+}
+
+
+#tye{
+    color: black;
+    font-size: 24px;
+    text-align: justify;
+    margin: auto;
+    margin: 15px;
+}
+
+#perso{
+    text-align: center;
+    font-size: 21px;
+}
+
+#henri{
+    font-size: 30px;
+}
+
+#irene{
+    font-size: 30px;
+    position: absolute;
+    top: 520%;
+}
+
+#viejito{
+    display: inline-block;
+    position: absolute;
+}
+
+#viejita{
+    position: absolute;
+    top: 526%;
+    width: 100%;
+}
+
+#sanfiel{
+    position: absolute;
+    top: 526%;
+    font-size: 25px;
+    text-align: justify;
+    display: inline-block;
+    left: 61.5%;
+    margin-right: 3px;
+}
+
+#verde{
+    position: absolute;
+    top: 613%;
+    width: 100%;
+}
+
+#foto{
+    position: absolute;
+    top: 750%;
+    width: 100%;
+}
+
+#zireja{
+    position: absolute;
+    top: 526%;
+    display: inline-block;
+}
+
+#bresson{
+    width: 50%;
+    position: absolute;
+    top: 148%;
+    left: 45%;
+    display: inline-block;
+}
+
+#paloma{
+    width: 100%;
+    position: absolute;
+    top: 260%;
+}
+
+#vato{
+    width: 100%;
+    position: absolute;
+    top: 376%;
+}
+
+#bresson>p {
+    font-size: 170%;
+    text-align: justify;
+}
+
+#sm{
+    color: black;
+    font-size: 24px;
+    text-align: justify;
+    margin: auto;
+    margin: 15px; 
+}
+
+#a1{
+    width: 25%;
+    height: 30px;
+    text-align: center;
+    float: left;
+    list-style: none;
+    font-size: 25px;
+}
+
+#a2{
+    width: 25%;
+    height: 30px;
+    text-align: center;
+    float: left;
+    list-style: none;
+    font-size: 25px;
+}
+
+#a3{
+    width: 25%;
+    height: 30px;
+    text-align: center;
+    float: left;
+    list-style: none;
+    font-size: 25px;
+}
+
+#a4{
+    width: 25%;
+    height: 30px;
+    text-align: center;
+    float: left;
+    list-style: none;
+    font-size: 25px;
+}
+
+#img1{
+    width: 100%;
+    height: 900px;
+}
+
+#img2{
+    width: 100%;
+    height: 900px;
+}
+
+#img3{
+    width: 100%;
+    height: 900px;
+}
+
+#img4{
+    width: 100%;
+    height: 900px;
+}
+
+#img5{
+    width: 100%;
+    height: 900px;
+}
+
+#img6{
+    width: 100%;
+    height: 900px;
+}
+
+#img7{
+    width: 100%;
+    height: 900px;
+}
+
+#img8{
+    width: 100%;
+    height: 900px;
+}
+
+#img9{
+    width: 100%;
+    height: 1650px;
+}
+
+#img10{
+    width: 100%;
+    height: 900px;
+}
+
+#img11{
+    width: 100%;
+    height: 900px;
+}
+
+#img12{
+    width: 100%;
+    height: 900px;
+}
+
+#img13{
+    width: 100%;
+    height: 900px;
+}
+
+#img14{
+    width: 100%;
+    height: 900px;
+}
+
+#img15{
+    width: 100%;
+    height: 900px;
+}
+
+#img16{
+    width: 100%;
+    height: 900px;
+}
+
+#img17{
+    width: 100%;
+    height: 900px;
+}
+
+#img18{
+    width: 100%;
+    height: 900px;
+}
+
+#img19{
+    width: 100%;
+    height: 900px;
+}
+
+/*HOVER*/
+
+a:hover{
+    color: white;
+}
+
+
+#a1:hover{
+    background-color:cadetblue;
+    color: white;
+}
+
+#a2:hover{
+    background-color:cadetblue;
+    color: white;
+}
+
+#a3:hover{
+    background-color:cadetblue;
+    color: white;
+}
+
+#a4:hover{
+    background-color:cadetblue;
+    color: white;
+}
